@@ -1,0 +1,20 @@
+example of python code
+Here is an example of a simple Python script that prints "Hello, World!" to the console:
+
+```
+# This is a comment. In Python, anything after a "#" symbol is ignored by the interpreter.
+
+# This line prints the string "Hello, World!" to the console
+print("Hello, World!")
+```
+
+In this example, the `print()` function is used to print a string to the console. The string "Hello, World!" is passed as an argument to the `print()` function, which then prints it to the console.
+
+You can run this code by saving it to a file with a `.py` extension, and then running it with the Python interpreter. For example, you could save the code above to a file called `hello_world.py`, and then run it like this:
+
+```
+$ python hello_world.py
+Hello, World!
+```
+
+I hope this helps! Let me know if you have any other questions.
